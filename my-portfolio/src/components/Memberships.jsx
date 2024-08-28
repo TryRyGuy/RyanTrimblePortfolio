@@ -10,7 +10,7 @@ const memberships = [
   {
     organization: 'Tau Beta Pi - National Engineering Honor Society',
     role: 'Member',
-    date: 'Since Decembger 2023'
+    date: 'Since December 2023'
   },
   // Add more memberships here
 ];
