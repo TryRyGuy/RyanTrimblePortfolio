@@ -7,8 +7,8 @@ const experiences = [
     period: 'June 2024 - Sept 2024',
     responsibilities: [
         'Implemented new filtering groups to the product storefront and refactored Supabase query code to reduce request times by 17%',
-        'Repopulated company database with more accurate catalog data from partenered retailers, removing duplicate/impropper entries',
-        'Developed training document to introduce other intern groups to web scraping with Selenium for a joint project',
+        'Repopulated company database with more accurate catalog data from partnered retailers, removing duplicate/improper entries',
+        'Developed training document to introduce other intern groups to web scraping with Selenium for a joint assignment',
       ],
   },
   // More experiences...
