@@ -88,7 +88,7 @@ export default function Skills() {
   return (
     <section id="skills" className="py-20">
       <div className="container mx-auto px-6 text-center">
-        <h2 className="text-4xl font-bold mb-8 text-primary">Skills</h2>
+        <h2 className="text-4xl font-bold mb-8 text-primary">Skills & Languages</h2>
         <div className="flex flex-wrap justify-center gap-8">
           {skills.map((skill, index) => (
             <a
