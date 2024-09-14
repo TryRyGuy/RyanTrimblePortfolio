@@ -8,7 +8,7 @@ const projects = [
     title: 'UCSC Course Preparation Tool',
     description: 'A secure companion tool for UCSC students to plan classes and generate reminders',
     image: UCSCScheduler,
-    link: 'https://github.com/TryRyGuy/sum24-proj1',
+    link: 'https://github.com/TryRyGuy/UCSCCourseScheduler',
     workingLink: null
   },
   {
